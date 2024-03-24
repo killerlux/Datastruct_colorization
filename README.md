@@ -1,5 +1,5 @@
 
-# Image Colorization and Data Structure Manipulation Project (PROJET SDA2)
+# Image Colorization and Data Structure Manipulation Project 
 
 ## Overview
 This is a Datastructure project, developed during my second year of computer sciences studies ,it is a sophisticated software tool designed to manipulate and color images, particularly those in the PBM (Portable Bitmap) and PPM (Portable Pixmap) formats. The project leverages advanced data structures, including trees and linked lists, to efficiently handle pixel data and implement algorithms for image processing.
